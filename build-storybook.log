@@ -1,0 +1,106 @@
+info @storybook/react v6.5.13
+info 
+info => Cleaning outputDir: C:\\Users\\ADMIN\\AppData\\Local\\Temp\\chromatic--1616-7QSkQCrbOCHu
+info => Loading presets
+info => Compiling manager..
+[36mvite v3.2.4 [32mbuilding for production...[36m[39m
+transforming...
+Use of eval is strongly discouraged, as it poses security risks and may cause issues with minification
+Use of eval is strongly discouraged, as it poses security risks and may cause issues with minification
+Use of eval is strongly discouraged, as it poses security risks and may cause issues with minification
+[32m✓[39m 2242 modules transformed.
+rendering chunks...
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[32massets/code-brackets.9ef6443e.svg                   [39m [2m1.42 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[32massets/comments.f15a6837.svg                        [39m [2m1.49 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[32massets/colors.ac9401f3.svg                          [39m [2m8.31 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[32massets/direction.94a9917f.svg                       [39m [2m1.25 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[32massets/flow.275142c6.svg                            [39m [2m1.36 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[32massets/plugin.57148314.svg                          [39m [2m2.12 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[32massets/repo.fb4ece47.svg                            [39m [2m1.60 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[32massets/stackalt.2ad81543.svg                        [39m [2m2.49 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[32miframe.html                                         [39m [2m13.27 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/index.8cde812d.js                            [39m [2m1.07 KiB / gzip: 0.61 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/index.8cde812d.js.map                        [39m [2m3.83 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/jsx-runtime.4c242851.js                      [39m [2m8.18 KiB / gzip: 3.12 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/jsx-runtime.4c242851.js.map                  [39m [2m17.47 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/config.540faae0.js                           [39m [2m5.84 KiB / gzip: 2.32 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/config.540faae0.js.map                       [39m [2m20.32 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/preview.e9a708a4.js                          [39m [2m0.78 KiB / gzip: 0.48 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/preview.e9a708a4.js.map                      [39m [2m7.40 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/make-decorator.51ebf877.js                   [39m [2m0.84 KiB / gzip: 0.49 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/make-decorator.51ebf877.js.map               [39m [2m3.02 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/preview.5425a0ee.js                          [39m [2m1.74 KiB / gzip: 0.66 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/preview.5425a0ee.js.map                      [39m [2m4.23 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/preview.92744fcc.js                          [39m [2m9.52 KiB / gzip: 3.34 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/preview.92744fcc.js.map                      [39m [2m38.92 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/preview.bfeabd6b.js                          [39m [2m4.47 KiB / gzip: 1.71 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/preview.bfeabd6b.js.map                      [39m [2m16.95 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/preview.b97837cf.js                          [39m [2m10.17 KiB / gzip: 3.94 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/preview.b97837cf.js.map                      [39m [2m42.88 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/es.number.to-fixed.3059a109.js               [39m [2m1.65 KiB / gzip: 1.00 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/es.number.to-fixed.3059a109.js.map           [39m [2m8.07 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/preview.9215955b.js                          [39m [2m7.96 KiB / gzip: 1.66 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/preview.9215955b.js.map                      [39m [2m17.04 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/es.map.constructor.f2ca4a67.js               [39m [2m0.24 KiB / gzip: 0.20 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/es.map.constructor.f2ca4a67.js.map           [39m [2m0.78 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/preview.4c56df5c.js                          [39m [2m12.07 KiB / gzip: 4.04 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/preview.4c56df5c.js.map                      [39m [2m44.77 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/preview.11da9146.js                          [39m [2m0.13 KiB / gzip: 0.14 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/preview.11da9146.js.map                      [39m [2m0.47 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/Introduction.stories.0419caf0.js             [39m [2m6.12 KiB / gzip: 2.33 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/Introduction.stories.0419caf0.js.map         [39m [2m10.48 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/instrumenter.786db4ac.js                     [39m [2m14.44 KiB / gzip: 5.08 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/instrumenter.786db4ac.js.map                 [39m [2m58.42 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/Button.stories.457b00eb.js                   [39m [2m23.12 KiB / gzip: 7.16 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/Button.stories.457b00eb.js.map               [39m [2m297.00 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/index.esm.70262e41.js                        [39m [2m34.72 KiB / gzip: 13.82 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/index.esm.70262e41.js.map                    [39m [2m104.84 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/Heading.stories.4f0a8474.js                  [39m [2m13.29 KiB / gzip: 3.94 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/Heading.stories.4f0a8474.js.map              [39m [2m36.12 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/Header.stories.45a3e715.js                   [39m [2m1.39 KiB / gzip: 0.63 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/Header.stories.45a3e715.js.map               [39m [2m0.13 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/Header.6f552f8a.js                           [39m [2m1.54 KiB / gzip: 0.75 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/Header.6f552f8a.js.map                       [39m [2m2.65 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/renderDocs.d3f100e9.js                       [39m [2m2.63 KiB / gzip: 1.28 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/renderDocs.d3f100e9.js.map                   [39m [2m9.61 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/client.7aab96af.js                           [39m [2m0.67 KiB / gzip: 0.42 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/client.7aab96af.js.map                       [39m [2m0.93 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/index.a8b20855.js                            [39m [2m2.42 KiB / gzip: 1.19 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/index.a8b20855.js.map                        [39m [2m6.13 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/es.string.from-code-point.6b824078.js        [39m [2m0.52 KiB / gzip: 0.39 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/es.string.from-code-point.6b824078.js.map    [39m [2m2.17 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/es.regexp.flags.537b1353.js                  [39m [2m0.60 KiB / gzip: 0.42 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/es.regexp.flags.537b1353.js.map              [39m [2m2.72 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/GlobalScrollAreaStyles-8793ce4a.bed5ef70.js  [39m [2m10.33 KiB / gzip: 2.37 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/GlobalScrollAreaStyles-8793ce4a.bed5ef70.js.map[39m [2m20.43 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/WithTooltip-167e9982.92eff403.js             [39m [2m40.37 KiB / gzip: 13.52 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/WithTooltip-167e9982.92eff403.js.map         [39m [2m176.43 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[35massets/Header.4fc7684b.css                          [39m [2m0.42 KiB / gzip: 0.28 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[35massets/Page.stories.0913ba40.css                    [39m [2m0.83 KiB / gzip: 0.38 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/Color-f953d088.827ab2dd.js                   [39m [2m33.79 KiB / gzip: 12.75 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/Color-f953d088.827ab2dd.js.map               [39m [2m129.55 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/string.47503a5b.js                           [39m [2m0.36 KiB / gzip: 0.28 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/string.47503a5b.js.map                       [39m [2m1.15 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/OverlayScrollbars-1355f44c.85d5da9c.js       [39m [2m63.15 KiB / gzip: 26.80 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/OverlayScrollbars-1355f44c.85d5da9c.js.map   [39m [2m430.19 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/index.44e2daea.js                            [39m [2m135.69 KiB / gzip: 44.60 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/index.44e2daea.js.map                        [39m [2m327.67 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/syntaxhighlighter-b07b042a.63b32a98.js       [39m [2m125.84 KiB / gzip: 47.88 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/syntaxhighlighter-b07b042a.63b32a98.js.map   [39m [2m455.32 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/Page.stories.f2fb66c7.js                     [39m [2m255.35 KiB / gzip: 60.95 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/Page.stories.f2fb66c7.js.map                 [39m [33m872.39 KiB[39m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/Props.456ceb29.js                            [39m [2m484.91 KiB / gzip: 143.08 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/Props.456ceb29.js.map                        [39m [33m1142.23 KiB[39m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/config.f2c413aa.js                           [39m [2m403.12 KiB / gzip: 116.79 KiB[22m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/config.f2c413aa.js.map                       [39m [33m1375.53 KiB[39m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/iframe.7ba039c5.js                           [39m [33m503.01 KiB / gzip: 140.76 KiB[39m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/iframe.7ba039c5.js.map                       [39m [33m1408.97 KiB[39m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[36massets/formatter-0d5cb0eb.cfc51648.js               [39m [33m740.85 KiB / gzip: 233.97 KiB[39m
+[90m[37m[2mC:/Users/ADMIN/AppData/Local/Temp/chromatic--1616-7QSkQCrbOCHu/[22m[90m[39m[90massets/formatter-0d5cb0eb.cfc51648.js.map           [39m [33m1743.55 KiB[39m
+[33m
+(!) Some chunks are larger than 500 KiB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/guide/en/#outputmanualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.[39m
+info => Manager built (2.12 min)
+info => Output directory: C:\\Users\\ADMIN\\AppData\\Local\\Temp\\chromatic--1616-7QSkQCrbOCHu

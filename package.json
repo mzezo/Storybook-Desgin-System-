@@ -8,7 +8,8 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "chromatic": "chromatic --project-token=\"$CHROMATIC_PROJECT_TOKEN\""
   },
   "dependencies": {
     "@styled-system/theme-get": "^5.1.2",
@@ -34,6 +35,7 @@
     "@types/styled-system__theme-get": "^5.0.2",
     "@vitejs/plugin-react": "^2.2.0",
     "babel-loader": "^8.3.0",
+    "chromatic": "^6.11.4",
     "typescript": "^4.6.4",
     "vite": "^3.2.3"
   }
