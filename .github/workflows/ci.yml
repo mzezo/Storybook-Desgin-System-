@@ -15,8 +15,6 @@ jobs:
         run: yarn
       - name: Build packages
         run: yarn build
-      - name: Automated tests
-        run: yarn test
         #👇 Adds Chromatic as a step in the workflow
       - uses: chromaui/action@v1
         # Options required for Chromatic's GitHub Action
